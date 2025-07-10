@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Qian Dai / 代 乾"
 title_separator          : "-"
 name                     : &name "Qian Dai"
-description              : &description "personal description"
+description              : &description "代乾, Qian Dai, Austin Dai, The University of Hong Kong,香港大学, fudan University, 复旦大学, 研究 AI 与医疗, 个人主页"
 url                      : https://austindai0504.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "austindai0504/austindai0504.github.io"
@@ -25,9 +25,10 @@ author:
   avatar           : "slef_image_QianDai.jpg"
   name             : "Qian Dai / 代乾"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. in Robotics, HKU\n
-                     B.Eng. in Software Eng., Fudan Uni.\n
-                     Focus: AI + medical devices"
+  bio              : |
+    M.S. in Robotics, HKU
+    B.Eng. in Software Eng., Fudan Uni.
+    Focus: AI + medical devices
   location         : "Hong Kong, China"
   employer         : "The University of Hong Kong"
   uri              : # URL
@@ -49,8 +50,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/AustinDai0504"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          :  # Replace this with you Bluesky username
@@ -83,7 +84,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
