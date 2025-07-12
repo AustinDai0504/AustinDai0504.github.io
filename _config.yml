@@ -25,9 +25,9 @@ author:
   avatar           : "slef_image_QianDai.jpg"
   name             : "Qian Dai / 代乾"
   pronouns         : # example: "she/her"  
-  bio              : |
-    M.S. in Robotics, HKU
-    B.Eng. in Software Eng., Fudan Uni.
+  bio              : >
+    M.S. in Robotics, HKU.<br>
+    B.Eng. in Software Eng., Fudan Uni.<br>
     Focus: AI + medical devices
   location         : "Hong Kong, China"
   employer         : "The University of Hong Kong"
